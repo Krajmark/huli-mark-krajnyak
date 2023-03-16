@@ -8,14 +8,14 @@ LinkedIn: [here](https://bit.ly/3KEqULG)
 Email: kmark.mrkk@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+[EBayClone final exam preparation exercise:](https://github.com/Krajmark/eucyon-itself-krajnyak-mark-final-project-continue-in-huli)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/{username}
+LeetCode: https://leetcode.com/Krajmark
 
 Hackerrank: https://www.hackerrank.com/{username}
 
-Codewars: https://www.codewars.com/users/{username}
+Codewars: https://www.codewars.com/users/Krajmark
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
 Upload your solutions as files into interview-tests/ directory
