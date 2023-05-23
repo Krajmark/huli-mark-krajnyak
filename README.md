@@ -8,7 +8,7 @@ LinkedIn: [click](https://bit.ly/3KEqULG)
 Email: kmark.mrkk@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-EBayClone final exam preparation exercise: [click](https://github.com/Krajmark/eucyon-itself-krajnyak-mark-final-project-continue-in-huli)
+EBayClone final exam preparation exercise: [click](https://github.com/Krajmark/eucyon-itself-krajnyak-mark-final-project-continue-in-huli)  
 Personal Page: [click](https://github.com/Krajmark/PersonalPage)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
